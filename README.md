@@ -80,7 +80,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
     `python(3) -m pyUltroid`
 
 ### Ultroid CLI
-[Ultroid CLI](https://github.com/BLUE-DEVIL1134/UltroidCli) is a command-line interface for deploying Ultroid.   
+[Ultroid CLI](https://github.com/bikashhd/UltroidCli) is a command-line interface for deploying Ultroid.   
 
 - **Installing** -    
 Run the following code on a terminal, with curl installed.   
